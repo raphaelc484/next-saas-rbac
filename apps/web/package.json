@@ -16,7 +16,7 @@
   "devDependencies": {
     "@next/eslint-plugin-next": "^14.1.1",
     "@saas/eslint-config": "workspace:*",
-    "@saas/typescript-config": "workspace:*",
+    "@saas/tsconfig": "workspace:*",
     "@types/eslint": "^8.56.5",
     "@types/node": "^20.11.24",
     "@types/react": "^18.2.61",
